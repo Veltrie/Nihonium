@@ -168,3 +168,7 @@ nav{
     margin-top: 30px;
     bottom: 30px;
 }
+.aboutme button:hover{
+    color:white;
+    transition: all ease 0.3s;
+}
