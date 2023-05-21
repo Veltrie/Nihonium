@@ -38,7 +38,7 @@ nav{
     width: 100%;
     box-sizing: border-box;
     padding: 10px 50px;
-    background-color: #f3e7f7;
+    background-color: #f9f2fb;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.05);
     z-index: 1;
 }
@@ -93,4 +93,16 @@ a:active {
     letter-spacing: 3px;
     color: #292929;
 }
-
+.socials{
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: flex;
+}
+.socials a{
+    margin: 6px 12px;
+}
+.socials i{
+    color:rgba(18,17,17,0.4);
+    font-size: 28px;
+}
