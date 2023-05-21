@@ -95,8 +95,8 @@ a:active {
 }
 .socials{
     position: absolute;
-    left: 50px;
-    bottom: 50px;
+    left: 12%;
+    bottom: 30%;
     display: flex;
 }
 .socials a{
@@ -104,5 +104,5 @@ a:active {
 }
 .socials i{
     color:rgba(18,17,17,0.4);
-    font-size: 28px;
+    font-size: 32px;
 }
