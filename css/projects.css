@@ -65,3 +65,18 @@ a:active {
     100% {
         opacity: 1;
      }
+    }
+    .socials{
+        position: absolute;
+        left: 12%;
+        bottom: 30%;
+        display: flex;
+    }
+    .socials a{
+        margin: 6px 12px;
+    }
+    .socials i{
+        color:rgba(18,17,17,0.4);
+        font-size: 32px;
+    }
+    
