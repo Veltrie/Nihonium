@@ -288,3 +288,6 @@ object-fit: cover;
     -webkit-box-orient: vertical;
 
 }
+html{
+    scroll-behavior: smooth;
+}
