@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     background-color: #f9f2fb;
-    animation: fadeInAnimation ease 0.4s;
+    animation: fadeInAnimation ease 0.7s;
     animation-iteration-count: 1;
     animation-fill-mode:forwards;
 }
