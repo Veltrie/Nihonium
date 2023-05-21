@@ -42,6 +42,9 @@ nav{
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.05);
     z-index: 1;
 }
+a:active {
+    color: black;
+}
 .menu{
     display: flex;
 }
@@ -62,44 +65,3 @@ nav{
     100% {
         opacity: 1;
      }
-}
-.intro{
-    font-family: Calibri, sans-serif;
-    width:auto;
-    position: absolute;
-    left: 12%;
-    top: 20%;
-    transform: translate (-20%, -50%);
-}
-.intro p:nth-child(1),
-.intro{
-    color: #796c7c;
-    font-size: 32px;
-    margin-bottom: -10px;
-    font-family: Calibri;
-}
-.about{
-    font-size: 32px;
-    margin-top: 0px;
-    margin-left:39%;
-}
-.intro h1{
-    font-family: 'Lato', sans-serif;
-    font-size: 80px;
-    margin: 0px;
-    letter-spacing: 3px;
-    color: #292929;
-}
-.socials{
-    position: absolute;
-    left: 12%;
-    bottom: 30%;
-    display: flex;
-}
-.socials a{
-    margin: 6px 12px;
-}
-.socials i{
-    color:rgba(18,17,17,0.4);
-    font-size: 32px;
-}
